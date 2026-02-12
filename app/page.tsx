@@ -6,6 +6,7 @@ import StatsSection from "@/components/stats-section"
 import PortfolioSection from "@/components/portfolio-section"
 import AchievementsSection from "@/components/achievements-section"
 import TestimonialsSection from "@/components/testimonials-section"
+import GoogleReviewsSection from "@/components/google-reviews-section"
 import BlogSection from "@/components/blog-section"
 import GallerySection from "@/components/gallery-section"
 import CommunitySection from "@/components/community-section"
@@ -25,6 +26,7 @@ export default function Page() {
       <PortfolioSection />
       <AchievementsSection />
       <TestimonialsSection />
+      <GoogleReviewsSection />
       <BlogSection />
       <GallerySection />
       <CommunitySection />
